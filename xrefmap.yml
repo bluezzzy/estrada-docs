@@ -1,0 +1,154 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Estrada
+  name: Estrada
+  href: api/Estrada.html
+  commentId: N:Estrada
+  fullName: Estrada
+  nameWithType: Estrada
+- uid: Estrada.Microphone
+  name: Microphone
+  href: api/Estrada.Microphone.html
+  commentId: T:Estrada.Microphone
+  fullName: Estrada.Microphone
+  nameWithType: Microphone
+- uid: Estrada.Microphone.devices
+  name: devices
+  href: api/Estrada.Microphone.html#Estrada_Microphone_devices
+  commentId: P:Estrada.Microphone.devices
+  fullName: Estrada.Microphone.devices
+  nameWithType: Microphone.devices
+- uid: Estrada.Microphone.devices*
+  name: devices
+  href: api/Estrada.Microphone.html#Estrada_Microphone_devices_
+  commentId: Overload:Estrada.Microphone.devices
+  isSpec: "True"
+  fullName: Estrada.Microphone.devices
+  nameWithType: Microphone.devices
+- uid: Estrada.Microphone.End(System.String)
+  name: End(String)
+  href: api/Estrada.Microphone.html#Estrada_Microphone_End_System_String_
+  commentId: M:Estrada.Microphone.End(System.String)
+  fullName: Estrada.Microphone.End(System.String)
+  nameWithType: Microphone.End(String)
+- uid: Estrada.Microphone.End*
+  name: End
+  href: api/Estrada.Microphone.html#Estrada_Microphone_End_
+  commentId: Overload:Estrada.Microphone.End
+  isSpec: "True"
+  fullName: Estrada.Microphone.End
+  nameWithType: Microphone.End
+- uid: Estrada.Microphone.GetCurrentData(System.Single[],System.Int32)
+  name: GetCurrentData(Single[], Int32)
+  href: api/Estrada.Microphone.html#Estrada_Microphone_GetCurrentData_System_Single___System_Int32_
+  commentId: M:Estrada.Microphone.GetCurrentData(System.Single[],System.Int32)
+  name.vb: GetCurrentData(Single(), Int32)
+  fullName: Estrada.Microphone.GetCurrentData(System.Single[], System.Int32)
+  fullName.vb: Estrada.Microphone.GetCurrentData(System.Single(), System.Int32)
+  nameWithType: Microphone.GetCurrentData(Single[], Int32)
+  nameWithType.vb: Microphone.GetCurrentData(Single(), Int32)
+- uid: Estrada.Microphone.GetCurrentData*
+  name: GetCurrentData
+  href: api/Estrada.Microphone.html#Estrada_Microphone_GetCurrentData_
+  commentId: Overload:Estrada.Microphone.GetCurrentData
+  isSpec: "True"
+  fullName: Estrada.Microphone.GetCurrentData
+  nameWithType: Microphone.GetCurrentData
+- uid: Estrada.Microphone.GetDeviceCaps(System.String,System.Int32@,System.Int32@)
+  name: GetDeviceCaps(String, out Int32, out Int32)
+  href: api/Estrada.Microphone.html#Estrada_Microphone_GetDeviceCaps_System_String_System_Int32__System_Int32__
+  commentId: M:Estrada.Microphone.GetDeviceCaps(System.String,System.Int32@,System.Int32@)
+  name.vb: GetDeviceCaps(String, ByRef Int32, ByRef Int32)
+  fullName: Estrada.Microphone.GetDeviceCaps(System.String, out System.Int32, out System.Int32)
+  fullName.vb: Estrada.Microphone.GetDeviceCaps(System.String, ByRef System.Int32, ByRef System.Int32)
+  nameWithType: Microphone.GetDeviceCaps(String, out Int32, out Int32)
+  nameWithType.vb: Microphone.GetDeviceCaps(String, ByRef Int32, ByRef Int32)
+- uid: Estrada.Microphone.GetDeviceCaps*
+  name: GetDeviceCaps
+  href: api/Estrada.Microphone.html#Estrada_Microphone_GetDeviceCaps_
+  commentId: Overload:Estrada.Microphone.GetDeviceCaps
+  isSpec: "True"
+  fullName: Estrada.Microphone.GetDeviceCaps
+  nameWithType: Microphone.GetDeviceCaps
+- uid: Estrada.Microphone.GetPosition(System.String)
+  name: GetPosition(String)
+  href: api/Estrada.Microphone.html#Estrada_Microphone_GetPosition_System_String_
+  commentId: M:Estrada.Microphone.GetPosition(System.String)
+  fullName: Estrada.Microphone.GetPosition(System.String)
+  nameWithType: Microphone.GetPosition(String)
+- uid: Estrada.Microphone.GetPosition*
+  name: GetPosition
+  href: api/Estrada.Microphone.html#Estrada_Microphone_GetPosition_
+  commentId: Overload:Estrada.Microphone.GetPosition
+  isSpec: "True"
+  fullName: Estrada.Microphone.GetPosition
+  nameWithType: Microphone.GetPosition
+- uid: Estrada.Microphone.HasPermission
+  name: HasPermission()
+  href: api/Estrada.Microphone.html#Estrada_Microphone_HasPermission
+  commentId: M:Estrada.Microphone.HasPermission
+  fullName: Estrada.Microphone.HasPermission()
+  nameWithType: Microphone.HasPermission()
+- uid: Estrada.Microphone.HasPermission*
+  name: HasPermission
+  href: api/Estrada.Microphone.html#Estrada_Microphone_HasPermission_
+  commentId: Overload:Estrada.Microphone.HasPermission
+  isSpec: "True"
+  fullName: Estrada.Microphone.HasPermission
+  nameWithType: Microphone.HasPermission
+- uid: Estrada.Microphone.IsRecording(System.String)
+  name: IsRecording(String)
+  href: api/Estrada.Microphone.html#Estrada_Microphone_IsRecording_System_String_
+  commentId: M:Estrada.Microphone.IsRecording(System.String)
+  fullName: Estrada.Microphone.IsRecording(System.String)
+  nameWithType: Microphone.IsRecording(String)
+- uid: Estrada.Microphone.IsRecording*
+  name: IsRecording
+  href: api/Estrada.Microphone.html#Estrada_Microphone_IsRecording_
+  commentId: Overload:Estrada.Microphone.IsRecording
+  isSpec: "True"
+  fullName: Estrada.Microphone.IsRecording
+  nameWithType: Microphone.IsRecording
+- uid: Estrada.Microphone.RequestPermission
+  name: RequestPermission()
+  href: api/Estrada.Microphone.html#Estrada_Microphone_RequestPermission
+  commentId: M:Estrada.Microphone.RequestPermission
+  fullName: Estrada.Microphone.RequestPermission()
+  nameWithType: Microphone.RequestPermission()
+- uid: Estrada.Microphone.RequestPermission*
+  name: RequestPermission
+  href: api/Estrada.Microphone.html#Estrada_Microphone_RequestPermission_
+  commentId: Overload:Estrada.Microphone.RequestPermission
+  isSpec: "True"
+  fullName: Estrada.Microphone.RequestPermission
+  nameWithType: Microphone.RequestPermission
+- uid: Estrada.Microphone.RequiresPermission
+  name: RequiresPermission()
+  href: api/Estrada.Microphone.html#Estrada_Microphone_RequiresPermission
+  commentId: M:Estrada.Microphone.RequiresPermission
+  fullName: Estrada.Microphone.RequiresPermission()
+  nameWithType: Microphone.RequiresPermission()
+- uid: Estrada.Microphone.RequiresPermission*
+  name: RequiresPermission
+  href: api/Estrada.Microphone.html#Estrada_Microphone_RequiresPermission_
+  commentId: Overload:Estrada.Microphone.RequiresPermission
+  isSpec: "True"
+  fullName: Estrada.Microphone.RequiresPermission
+  nameWithType: Microphone.RequiresPermission
+- uid: Estrada.Microphone.Start(System.String,System.Boolean,System.Int32,System.Int32)
+  name: Start(String, Boolean, Int32, Int32)
+  href: api/Estrada.Microphone.html#Estrada_Microphone_Start_System_String_System_Boolean_System_Int32_System_Int32_
+  commentId: M:Estrada.Microphone.Start(System.String,System.Boolean,System.Int32,System.Int32)
+  fullName: Estrada.Microphone.Start(System.String, System.Boolean, System.Int32, System.Int32)
+  nameWithType: Microphone.Start(String, Boolean, Int32, Int32)
+- uid: Estrada.Microphone.Start*
+  name: Start
+  href: api/Estrada.Microphone.html#Estrada_Microphone_Start_
+  commentId: Overload:Estrada.Microphone.Start
+  isSpec: "True"
+  fullName: Estrada.Microphone.Start
+  nameWithType: Microphone.Start
+- uid: limitations
+  name: Limitations
+  href: documentation/limitations.html
